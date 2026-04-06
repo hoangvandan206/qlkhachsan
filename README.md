@@ -1,8 +1,7 @@
 # Phần mềm quản lý khách sạn
 
 ## Tải phần mềm
-Link tải:(https://drive.google.com/file/d/1ULAXx9-Xvt9_3M4UmOYKTxJ50DZHVCi_/view?usp=drive_link)
-
+Link tải: https://drive.google.com/file/d/1oM4hWf3zXypMtInfAIH6YGkGKth46Xdm/view?usp=sharing
 ##  Hướng dẫn sử dụng
 1. Tải file .exe về máy
 2. Mở file
